@@ -25,6 +25,8 @@ HTML_UI = """
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Annapurna PDF Pro | Premium Scanner</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://pl29726497.effectivecpmnetwork.com/30/87/be/3087be57972d6222e8e028445d858042.js"></script>
+
     <link href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.js"></script>
     <style>
